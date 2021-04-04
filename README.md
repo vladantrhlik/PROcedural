@@ -8,9 +8,10 @@ Generates random barcode
 Recreation of random leaves I saw in one of CGMatter/Default Cube tutorials
 
 ## n_gon
-'2D Metaballs' (n-gons) animation inspired by [this](https://www.youtube.com/watch?v=4JT_43qc0Dc&ab_channel=DefaultCube) video. N-gons weren't easy to make but I somehow figured it out. Metaball effect is really simple to make thanks to Smooth minimum Math node.
 
-<img src="n_gon/render_gif.gif" width="20%" height="20%"/>
+<img align="right" src="n_gon/render_gif.gif" width="20%" height="20%"/>
+
+'2D Metaballs' (n-gons) animation inspired by [this](https://www.youtube.com/watch?v=4JT_43qc0Dc&ab_channel=DefaultCube) video. N-gons weren't easy to make but I somehow figured it out. Metaball effect is really simple to make thanks to Smooth minimum Math node.
 
 ## old_film
 Creates oldskool border on image, simple stuff :)
