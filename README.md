@@ -26,7 +26,11 @@ Simple pacman (loading?) animation. The hardest part were points which I yoinked
 <br clear="left"/>
 
 ## pong
+<img align="left" src="pong/gif.gif" width="40%" height="20%"/>
+
 The hardest and the most useless thing I've ever done. Position of ball was very interesting to calculate, but annoying to recreate with nodes. It's also a bit glitchy, but it works :)
+
+<br clear="left"/>
 
 ## qr_code
 Generates random QR code (recreation of [this](https://www.youtube.com/watch?v=EYDTvC43klc&ab_channel=DefaultCube) tutorial.)
