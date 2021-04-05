@@ -34,3 +34,10 @@ The hardest and the most useless thing I've ever done. Position of ball was very
 
 ## [qr_code](https://github.com/vladantrhlik/PROcedural/tree/master/qr_code)
 Generates random QR code (recreation of [this](https://www.youtube.com/watch?v=EYDTvC43klc&ab_channel=DefaultCube) tutorial.)
+
+## [rain](https://github.com/vladantrhlik/PROcedural/tree/master/rain)
+<img align="left" src="rain/gif.gif" width="25%" height="25%"/>
+
+Simple procedurally generated rain animation
+
+<br clear="left"/>
