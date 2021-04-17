@@ -7,6 +7,14 @@ Generates random barcode
 ## [leaves](https://github.com/vladantrhlik/PROcedural/tree/master/leaves)
 Recreation of random leaves I saw in one of CGMatter/Default Cube tutorials
 
+## [minimal_comet](https://github.com/vladantrhlik/PROcedural/tree/master/minimal_comet)
+
+<img align="left" src="minimal_comet/1.png" width="20%" height="20%"/>
+
+My try at making procedural minimal comet
+
+<br clear="left"/>
+
 ## [n_gon](https://github.com/vladantrhlik/PROcedural/tree/master/n_gon)
 
 <img align="left" src="n_gon/render_gif.gif" width="20%" height="20%"/>
